@@ -1,1 +1,2 @@
 # Alien-Invasion
+utilized Pygame, a Python library for game development, to craft an arcade-style game dubbed "Alien-invasion". In this game, players control a rocket tasked with shooting down aliens to accrue points. To enhance player engagement, I engineered the game with progressive difficulty scaling: as players advance and destroy alien groups, the speed of the aliens increases, intensifying the challenge and motivating players to surpass their high scores.
